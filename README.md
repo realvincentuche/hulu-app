@@ -7,7 +7,7 @@ A Hulu Clone App developed with Nextjs & Tailwindcss
 Get a preview at:
 * https://hulu-app-nine.vercel.app/
 
-![alt text](https://github.com/klaryon/hulu-clone-2.0/blob/main/assets/images/1.PNG?raw=true)
+![alt text](https://raw.githubusercontent.com/realvincentuche/hulu-app/main/public/images/1.png)
 
 ## API
 
