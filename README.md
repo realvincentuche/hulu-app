@@ -1,4 +1,17 @@
+# Hulu App
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+A Hulu Clone App developed with Nextjs & Tailwindcss
+
+Get a preview at:
+* https://hulu-app-nine.vercel.app/
+
+![alt text](https://github.com/klaryon/hulu-clone-2.0/blob/main/assets/images/1.PNG?raw=true)
+
+## API
+
+* https://www.themoviedb.org/
 
 ## Getting Started
 
